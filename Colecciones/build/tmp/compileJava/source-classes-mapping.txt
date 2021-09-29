@@ -1,0 +1,2 @@
+mx/udg/cucea/colecciones/Colecciones.java
+ mx.udg.cucea.colecciones.Colecciones

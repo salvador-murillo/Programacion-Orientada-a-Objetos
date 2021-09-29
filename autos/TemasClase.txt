@@ -1,0 +1,23 @@
+
+
+Static
+Sirve para cuando no necesitamos un objeto, su caracteristica es que ese metodo o atributo se comparte en la clase misma o en los objetos de dicha clase
+
+Ejemplo:
+Cuando tenemos un atributo en una clase llamada Auto:
+public class Auto {
+    int numeroDePuertas;
+    String marca;
+    static String modelo;
+    int year;
+    
+    public void escribeAuto(){
+        System.out.println("El coche tiene " + numeroDePuertas + " puertas y es de la marca " + marca + " y de modelo " + modelo + " y fue fabricado en " + year);
+    }
+    //Podemos crear metodos estaticos, pero sus variables a imprimir tienen que ser estaticos tambien:
+    public static void escribeModelo(){
+        System.out.println("El modelo es " + modelo);
+    }
+}
+
+En nuestra clase principal:

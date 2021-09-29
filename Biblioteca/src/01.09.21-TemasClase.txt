@@ -1,0 +1,32 @@
+Encapsulamiento
+
+Cuando hablamos de encapsulamiento, nos referimos al hecho de colocar un modificador de acceso a un atributo.
+
+*Public (Accessible para todos los paquetes, clases, subclases, etc.)
+*Protected (Al aplicar Herencia, podria usarse) (Visible para Clases, paquetes, subclases)
+*Default (No se coloca como tal esta keyword, se deja sin indicar) (Clases y paquetes)
+*Private (Solo es accesible para la misma clase)
+
+Ejemplo:
+
+class MyClass{
+    //Al declararlo private, significa que solo puede ser modificado desde esta clase
+    //Para poder modificarlo por fuera hay que crear setters y getters, los cuales haran la funcion para cambiar y obtener valor.
+
+    //Atributo Privado
+    private int numeroDePagina;
+
+    //Set para numeroDePagina
+    public void setNumeroDePagina(int numeroDePagina){
+        this.numeroDePagina = numeroDePagina;
+    }
+
+    //Get para numeroDePagina
+    public int getNumeroPagina(){
+        return numeroDePagina;
+    }
+    
+}
+
+La palabra this.NombreAtributo, hace referencia a un atributo tipo objeto (actual) que esta dentro de la misma clase
+

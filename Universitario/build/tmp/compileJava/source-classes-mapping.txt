@@ -1,0 +1,10 @@
+mx/udg/cucea/empleados/Profesor.java
+ mx.udg.cucea.empleados.Profesor
+mx/udg/cucea/universidad/UniversidadDeGuadalajara.java
+ mx.udg.cucea.universidad.UniversidadDeGuadalajara
+mx/udg/cucea/estudiantes/Estudiante.java
+ mx.udg.cucea.estudiantes.Estudiante
+mx/udg/cucea/empleados/Empleado.java
+ mx.udg.cucea.empleados.Empleado
+mx/udg/cucea/universitarios/Universitario.java
+ mx.udg.cucea.universitarios.Universitario

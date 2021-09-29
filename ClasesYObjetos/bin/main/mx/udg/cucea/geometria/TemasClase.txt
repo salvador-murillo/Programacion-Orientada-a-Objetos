@@ -1,0 +1,28 @@
+Caracteristicas de clase, 3 elementos:
+atributos
+constructores
+metodos
+
+Constructor por default
+
+//Constructor por defecto (JAVA lo agrega en automatico a las clases, en caso de no haberlo definido explicitamente) ejemplo :
+Circulo(){
+
+}
+//Cuando se define un constructor, el constructor por defecto ya no existe, tendriamos que pasar los parametros o crear un constructor "limpio"
+    
+Herencia (extends)
+El objeto de tipo A es tambien de tipo B?
+Si la respuesta es si, entonces aplicamos herencia.
+
+this() Hace referencia al constructor de la misma clase
+this. Hace referencia al atributo de la clase, sin static, 
+super() Hace referencia al constructor de la clase padre
+
+Sobre escritura (@override) //Se coloca cada que tengamos el mismo nombre del metodo, pero diferente funcion o con paso de parametros
+Se refiere cuando en una estructura de herencia tenemos definido metodos con el mismo
+nombre y parametros en el padre y en el hijo.
+Se ejecuta el metodo más especializado.
+
+Sobre carga (@override)
+Cuando definimos metodos con el mismo nombre, pero diferentes parametros

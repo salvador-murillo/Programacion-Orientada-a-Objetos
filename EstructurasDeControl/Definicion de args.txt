@@ -1,0 +1,19 @@
+Cuando escribimos la sentencia "public void main(String[] args){}"
+Estamos diciendo que la funcion main, puede recibir argumentos (desde el exterior) en un arreglo de tipo String
+Para comprobar esto, tendremos que primero crear nuestra clase, y compilarla, para visualizar esto de una mejor manera
+pondremos en el main una salida en consola que nos muestre la longitud de 'args' (args.length), apoyado de un for para visualizar la cantidad de argumentos que le damos desde el exterior.
+ejemplo: 
+    System.out.println(args.length); //Longitud de args
+        for(int i=0; i< args.length; i++){
+            System.out.println(args[i]); //Va imprimir los argumentos que se manden desde afuera
+        }
+Una vez hecho lo primero, pasaremos a colocarnos en la ruta del paquete, nombre-paquete/build/classes/java/main (A veces en lugar de build, puede ser bin)
+alli vamos a colocar la instruccion en consola 'java' seguido del nombre del paquete y la clase 'dominio.empresa.seccion.nombre-paquete.nombre-clase' y despues la cantidad de argumentos
+ejemplo:
+    java mx.udg.cucea.estructurasDeControl.EstructurasDeControl Hola me llamo chava
+En este ejemplo vamos a ejecutar la clase 'EstructurasDeControl' y le estamos pasando 4 argumentos 'Hola me llamo chava', por lo tanto la salida de nuestro codigo sera:
+4
+Hola
+me
+llamo
+chava

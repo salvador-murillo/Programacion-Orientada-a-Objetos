@@ -1,0 +1,18 @@
+mx/udg/cucea/vehiculos/Motocicleta.java
+ mx.udg.cucea.vehiculos.Motocicleta
+mx/udg/cucea/vehiculos/Macrobus.java
+ mx.udg.cucea.vehiculos.Macrobus
+mx/udg/cucea/vehiculos/Automovil.java
+ mx.udg.cucea.vehiculos.Automovil
+mx/udg/cucea/vehiculos/Transporte.java
+ mx.udg.cucea.vehiculos.Transporte
+mx/udg/cucea/vehiculos/TransportePublico.java
+ mx.udg.cucea.vehiculos.TransportePublico
+mx/udg/cucea/vehiculos/TrenLigero.java
+ mx.udg.cucea.vehiculos.TrenLigero
+mx/udg/cucea/vehiculos/TransporteDeCarga.java
+ mx.udg.cucea.vehiculos.TransporteDeCarga
+mx/udg/cucea/datos/EscritorArchivoTransporte.java
+ mx.udg.cucea.datos.EscritorArchivoTransporte
+mx/udg/cucea/vialidad/Vialidad.java
+ mx.udg.cucea.vialidad.Vialidad

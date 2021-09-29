@@ -1,0 +1,6 @@
+Clase 06 de Septiembre del 2021
+
+Temas Vistos
+*Herencia
+
+Creacion de clase padre, con clases hijos, asi como definiendo constructores, getters, setters;

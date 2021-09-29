@@ -1,0 +1,10 @@
+mx/udg/cucea/geometria/Circulo.java
+ mx.udg.cucea.geometria.Circulo
+mx/udg/cucea/geometria/FigurasGeometricas.java
+ mx.udg.cucea.geometria.FigurasGeometricas
+mx/udg/cucea/geometria/Rectangulo.java
+ mx.udg.cucea.geometria.Rectangulo
+mx/udg/cucea/geometria/Cuadrado.java
+ mx.udg.cucea.geometria.Cuadrado
+mx/udg/cucea/geometria/Cuadrilatero.java
+ mx.udg.cucea.geometria.Cuadrilatero
