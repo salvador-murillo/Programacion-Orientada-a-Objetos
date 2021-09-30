@@ -1,0 +1,6 @@
+mx/udg/cucea/escuela/Alumno.java
+ mx.udg.cucea.escuela.Alumno
+mx/udg/cucea/datos/EscribirDatosAlumnos.java
+ mx.udg.cucea.datos.EscribirDatosAlumnos
+mx/udg/cucea/escuela/Escuela.java
+ mx.udg.cucea.escuela.Escuela
