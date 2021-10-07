@@ -12,8 +12,8 @@ package mx.udg.cucea.graficos;
 public class Graficos {
     
     public static void main(String[] args) {
-        Ventana v = new Ventana();
+        // Ventana v = new Ventana();
         
-    
+        VentanaConListas v = new VentanaConListas();
     }
 }

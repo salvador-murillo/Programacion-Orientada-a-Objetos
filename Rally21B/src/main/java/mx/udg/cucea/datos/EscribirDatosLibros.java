@@ -13,7 +13,7 @@ public class EscribirDatosLibros extends FileWriter{
     private Libros libro;
 
     public EscribirDatosLibros(Libros l) throws IOException {
-        super(l.getISBN() +".txt");
+        super(l.getISBN() +".rtf");
         //Inicializamos la variable libro con lo que se mande de l
         this.libro = l;
     }

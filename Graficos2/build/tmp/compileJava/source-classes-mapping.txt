@@ -4,5 +4,9 @@ mx/udg/cucea/graficos/Ventana.java
  mx.udg.cucea.graficos.Ventana$2
  mx.udg.cucea.graficos.Ventana$3
  mx.udg.cucea.graficos.Ventana$4
+mx/udg/cucea/graficos/VentanaConListas.java
+ mx.udg.cucea.graficos.VentanaConListas
+ mx.udg.cucea.graficos.VentanaConListas$1
+ mx.udg.cucea.graficos.VentanaConListas$2
 mx/udg/cucea/graficos/Graficos.java
  mx.udg.cucea.graficos.Graficos
