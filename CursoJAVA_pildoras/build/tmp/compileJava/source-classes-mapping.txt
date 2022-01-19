@@ -1,0 +1,14 @@
+mx/youtube/pildorasInformaticas/graficos/TrabajandoConFuentes.java
+ mx.youtube.pildorasInformaticas.graficos.LaminaConFuentes
+ mx.youtube.pildorasInformaticas.graficos.MarcoConFuentes
+ mx.youtube.pildorasInformaticas.graficos.TrabajandoConFuentes
+mx/youtube/pildorasInformaticas/graficos/PruebaDibujo.java
+ mx.youtube.pildorasInformaticas.graficos.LaminaConFiguras
+ mx.youtube.pildorasInformaticas.graficos.MarcoConDibujos
+ mx.youtube.pildorasInformaticas.graficos.PruebaDibujo
+mx/youtube/pildorasInformaticas/graficos/DetectarFuentesSistema.java
+ mx.youtube.pildorasInformaticas.graficos.DetectarFuentesSistema
+mx/youtube/pildorasInformaticas/graficos/TrabajandoConImagenes.java
+ mx.youtube.pildorasInformaticas.graficos.LaminaConImagenes
+ mx.youtube.pildorasInformaticas.graficos.MarcoConImagenes
+ mx.youtube.pildorasInformaticas.graficos.TrabajandoConImagenes

@@ -1,4 +1,4 @@
-mx/udg/cucea/archivos/LeerArchivo.java
- mx.udg.cucea.archivos.LeerArchivo
 mx/udg/cucea/archivos/EscrituraDeArchivos.java
  mx.udg.cucea.archivos.EscrituraDeArchivos
+mx/udg/cucea/archivos/LeerArchivo.java
+ mx.udg.cucea.archivos.LeerArchivo

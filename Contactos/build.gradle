@@ -1,0 +1,18 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+mainClassName = 'mx.udg.cucea.contactos.graficos.VentanaListaDeContacto'
+
+repositories {
+    //mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    testImplementation     'junit:junit:4.13'
+    // this is for mysql java connector
+    implementation group: 'mysql', name: 'mysql-connector-java', version:'8.0.26'
+    runtimeOnly "mysql:mysql-connector-java:8.0.26"
+}

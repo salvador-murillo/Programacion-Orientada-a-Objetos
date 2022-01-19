@@ -1,0 +1,17 @@
+mx/udg/cucea/archivos/EscritorArchivoContacto.java
+ mx.udg.cucea.archivos.EscritorArchivoContacto
+mx/udg/cucea/datos/Contacto.java
+ mx.udg.cucea.datos.Contacto
+mx/udg/cucea/archivos/LeerArchivoContacto.java
+ mx.udg.cucea.archivos.LeerArchivoContacto
+mx/udg/cucea/baseDeDatos/AdministradorBD.java
+ mx.udg.cucea.baseDeDatos.AdministradorBD
+mx/udg/cucea/contactos/graficos/VentanaDetalles.java
+ mx.udg.cucea.contactos.graficos.VentanaDetalles
+ mx.udg.cucea.contactos.graficos.VentanaDetalles$1
+ mx.udg.cucea.contactos.graficos.VentanaDetalles$2
+mx/udg/cucea/contactos/graficos/VentanaListaDeContacto.java
+ mx.udg.cucea.contactos.graficos.VentanaListaDeContacto
+ mx.udg.cucea.contactos.graficos.VentanaListaDeContacto$1
+ mx.udg.cucea.contactos.graficos.VentanaListaDeContacto$2
+ mx.udg.cucea.contactos.graficos.VentanaListaDeContacto$3
